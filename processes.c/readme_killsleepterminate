@@ -1,0 +1,3 @@
+-9 to kill -19 to terminate -18 to resume
+ps -lm
+ps -la
